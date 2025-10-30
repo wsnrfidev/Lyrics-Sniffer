@@ -1,8 +1,8 @@
-﻿using System;
-using System.IO;
+﻿using System.IO;
 using Newtonsoft.Json.Linq;
+using CliLyricsSniffer.Core.Utils;
 
-namespace CliLyricsSniffer.Core.Utils
+namespace CliLyricsSniffer.Core.Models
 {
     public class AppConfig
     {
@@ -11,9 +11,12 @@ namespace CliLyricsSniffer.Core.Utils
 
         public static AppConfig Load()
         {
-            var file = Path.Combine(AppContext.BaseDirectory, "appsettings.json");
+            string file = PathHelper.GetConfigPath("appsettings.json");
             if (!File.Exists(file))
+            {
+                Console.WriteLine("⚠️ appsettings.json not found!");
                 return new AppConfig();
+            }
 
             var jo = JObject.Parse(File.ReadAllText(file));
             return new AppConfig

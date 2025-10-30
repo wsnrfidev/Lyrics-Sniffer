@@ -1,42 +1,37 @@
 ﻿using System;
 using System.IO;
 
-namespace CliLyricsSniffer.Utils
+namespace CliLyricsSniffer.Core.Utils
 {
     public static class PathHelper
     {
-        
-        public static string DetectProjectRoot()
+        public static string GetBasePath()
         {
-            string current = Directory.GetCurrentDirectory();
-
-            for (int i = 0; i < 10; i++) 
-            {
-                if (File.Exists(Path.Combine(current, "appsettings.json")) &&
-                    Directory.GetFiles(current, "*.csproj").Length > 0)
-                {
-                    return current;
-                }
-
-                var parent = Directory.GetParent(current);
-                if (parent == null) break;
-                current = parent.FullName;
-            }
-
-            throw new DirectoryNotFoundException(
-                "[ERROR] Project path not found.\nPlease ensure the .csproj and appsettings.json exist."
-            );
+            return AppContext.BaseDirectory;
         }
 
-        public static string GetAppSettingsPath()
+        public static string GetConfigPath(string fileName = "appsettings.json")
         {
-            string root = DetectProjectRoot();
-            string path = Path.Combine(root, "appsettings.json");
+            string local = Path.Combine(Directory.GetCurrentDirectory(), fileName);
+            if (File.Exists(local)) return local;
 
-            if (!File.Exists(path))
-                throw new FileNotFoundException($"appsettings.json not found at {path}");
+            string exePath = Path.Combine(GetBasePath(), fileName);
+            if (File.Exists(exePath)) return exePath;
 
-            return path;
+            return fileName;
+        }
+
+        public static string DetectProjectRoot()
+        {
+            var dir = Directory.GetCurrentDirectory();
+            while (dir != null)
+            {
+                if (Directory.GetFiles(dir, "*.csproj").Length > 0)
+                    return dir;
+
+                dir = Directory.GetParent(dir)?.FullName;
+            }
+            return Directory.GetCurrentDirectory();
         }
     }
 }

@@ -1,0 +1,297 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\MY PROJECT\\MY SOFTWARE\\CLI-Lyrics-Sniffer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{857032B3-D567-46D4-B3B8-E8682AFF4E8F}|CLI-Lyrics-Sniffer\\CLI-Lyrics-Sniffer.csproj|c:\\users\\administrator\\source\\repos\\my project\\my software\\cli-lyrics-sniffer\\cli-lyrics-sniffer\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{857032B3-D567-46D4-B3B8-E8682AFF4E8F}|CLI-Lyrics-Sniffer\\CLI-Lyrics-Sniffer.csproj|solutionrelative:cli-lyrics-sniffer\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{857032B3-D567-46D4-B3B8-E8682AFF4E8F}|CLI-Lyrics-Sniffer\\CLI-Lyrics-Sniffer.csproj|C:\\Users\\Administrator\\source\\repos\\MY PROJECT\\MY SOFTWARE\\CLI-Lyrics-Sniffer\\cli-lyrics-sniffer\\core\\utils\\pathhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{857032B3-D567-46D4-B3B8-E8682AFF4E8F}|CLI-Lyrics-Sniffer\\CLI-Lyrics-Sniffer.csproj|solutionrelative:cli-lyrics-sniffer\\core\\utils\\pathhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{857032B3-D567-46D4-B3B8-E8682AFF4E8F}|CLI-Lyrics-Sniffer\\CLI-Lyrics-Sniffer.csproj|C:\\Users\\Administrator\\source\\repos\\MY PROJECT\\MY SOFTWARE\\CLI-Lyrics-Sniffer\\cli-lyrics-sniffer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{857032B3-D567-46D4-B3B8-E8682AFF4E8F}|CLI-Lyrics-Sniffer\\CLI-Lyrics-Sniffer.csproj|solutionrelative:cli-lyrics-sniffer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{857032B3-D567-46D4-B3B8-E8682AFF4E8F}|CLI-Lyrics-Sniffer\\CLI-Lyrics-Sniffer.csproj|C:\\Users\\Administrator\\source\\repos\\MY PROJECT\\MY SOFTWARE\\CLI-Lyrics-Sniffer\\cli-lyrics-sniffer\\core\\utils\\appconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{857032B3-D567-46D4-B3B8-E8682AFF4E8F}|CLI-Lyrics-Sniffer\\CLI-Lyrics-Sniffer.csproj|solutionrelative:cli-lyrics-sniffer\\core\\utils\\appconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{857032B3-D567-46D4-B3B8-E8682AFF4E8F}|CLI-Lyrics-Sniffer\\CLI-Lyrics-Sniffer.csproj|C:\\Users\\Administrator\\source\\repos\\MY PROJECT\\MY SOFTWARE\\CLI-Lyrics-Sniffer\\cli-lyrics-sniffer\\core\\utils\\consolehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{857032B3-D567-46D4-B3B8-E8682AFF4E8F}|CLI-Lyrics-Sniffer\\CLI-Lyrics-Sniffer.csproj|solutionrelative:cli-lyrics-sniffer\\core\\utils\\consolehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{857032B3-D567-46D4-B3B8-E8682AFF4E8F}|CLI-Lyrics-Sniffer\\CLI-Lyrics-Sniffer.csproj|C:\\Users\\Administrator\\source\\repos\\MY PROJECT\\MY SOFTWARE\\CLI-Lyrics-Sniffer\\cli-lyrics-sniffer\\core\\utils\\theme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{857032B3-D567-46D4-B3B8-E8682AFF4E8F}|CLI-Lyrics-Sniffer\\CLI-Lyrics-Sniffer.csproj|solutionrelative:cli-lyrics-sniffer\\core\\utils\\theme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{857032B3-D567-46D4-B3B8-E8682AFF4E8F}|CLI-Lyrics-Sniffer\\CLI-Lyrics-Sniffer.csproj|C:\\Users\\Administrator\\source\\repos\\MY PROJECT\\MY SOFTWARE\\CLI-Lyrics-Sniffer\\cli-lyrics-sniffer\\core\\models\\lyricsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{857032B3-D567-46D4-B3B8-E8682AFF4E8F}|CLI-Lyrics-Sniffer\\CLI-Lyrics-Sniffer.csproj|solutionrelative:cli-lyrics-sniffer\\core\\models\\lyricsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{857032B3-D567-46D4-B3B8-E8682AFF4E8F}|CLI-Lyrics-Sniffer\\CLI-Lyrics-Sniffer.csproj|C:\\Users\\Administrator\\source\\repos\\MY PROJECT\\MY SOFTWARE\\CLI-Lyrics-Sniffer\\cli-lyrics-sniffer\\cli-lyrics-sniffer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{857032B3-D567-46D4-B3B8-E8682AFF4E8F}|CLI-Lyrics-Sniffer\\CLI-Lyrics-Sniffer.csproj|solutionrelative:cli-lyrics-sniffer\\cli-lyrics-sniffer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{857032B3-D567-46D4-B3B8-E8682AFF4E8F}|CLI-Lyrics-Sniffer\\CLI-Lyrics-Sniffer.csproj|C:\\Users\\Administrator\\source\\repos\\MY PROJECT\\MY SOFTWARE\\CLI-Lyrics-Sniffer\\cli-lyrics-sniffer\\core\\render\\karaokerender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{857032B3-D567-46D4-B3B8-E8682AFF4E8F}|CLI-Lyrics-Sniffer\\CLI-Lyrics-Sniffer.csproj|solutionrelative:cli-lyrics-sniffer\\core\\render\\karaokerender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{857032B3-D567-46D4-B3B8-E8682AFF4E8F}|CLI-Lyrics-Sniffer\\CLI-Lyrics-Sniffer.csproj|C:\\Users\\Administrator\\source\\repos\\MY PROJECT\\MY SOFTWARE\\CLI-Lyrics-Sniffer\\cli-lyrics-sniffer\\core\\services\\spotifyclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{857032B3-D567-46D4-B3B8-E8682AFF4E8F}|CLI-Lyrics-Sniffer\\CLI-Lyrics-Sniffer.csproj|solutionrelative:cli-lyrics-sniffer\\core\\services\\spotifyclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{857032B3-D567-46D4-B3B8-E8682AFF4E8F}|CLI-Lyrics-Sniffer\\CLI-Lyrics-Sniffer.csproj|C:\\Users\\Administrator\\source\\repos\\MY PROJECT\\MY SOFTWARE\\CLI-Lyrics-Sniffer\\cli-lyrics-sniffer\\core\\models\\lrcline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{857032B3-D567-46D4-B3B8-E8682AFF4E8F}|CLI-Lyrics-Sniffer\\CLI-Lyrics-Sniffer.csproj|solutionrelative:cli-lyrics-sniffer\\core\\models\\lrcline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{857032B3-D567-46D4-B3B8-E8682AFF4E8F}|CLI-Lyrics-Sniffer\\CLI-Lyrics-Sniffer.csproj|C:\\Users\\Administrator\\source\\repos\\MY PROJECT\\MY SOFTWARE\\CLI-Lyrics-Sniffer\\cli-lyrics-sniffer\\core\\models\\playinginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{857032B3-D567-46D4-B3B8-E8682AFF4E8F}|CLI-Lyrics-Sniffer\\CLI-Lyrics-Sniffer.csproj|solutionrelative:cli-lyrics-sniffer\\core\\models\\playinginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{857032B3-D567-46D4-B3B8-E8682AFF4E8F}|CLI-Lyrics-Sniffer\\CLI-Lyrics-Sniffer.csproj|C:\\Users\\Administrator\\source\\repos\\MY PROJECT\\MY SOFTWARE\\CLI-Lyrics-Sniffer\\cli-lyrics-sniffer\\core\\services\\lyricsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{857032B3-D567-46D4-B3B8-E8682AFF4E8F}|CLI-Lyrics-Sniffer\\CLI-Lyrics-Sniffer.csproj|solutionrelative:cli-lyrics-sniffer\\core\\services\\lyricsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{857032B3-D567-46D4-B3B8-E8682AFF4E8F}|CLI-Lyrics-Sniffer\\CLI-Lyrics-Sniffer.csproj|C:\\Users\\Administrator\\source\\repos\\MY PROJECT\\MY SOFTWARE\\CLI-Lyrics-Sniffer\\cli-lyrics-sniffer\\core\\services\\spotifyauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{857032B3-D567-46D4-B3B8-E8682AFF4E8F}|CLI-Lyrics-Sniffer\\CLI-Lyrics-Sniffer.csproj|solutionrelative:cli-lyrics-sniffer\\core\\services\\spotifyauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{857032B3-D567-46D4-B3B8-E8682AFF4E8F}|CLI-Lyrics-Sniffer\\CLI-Lyrics-Sniffer.csproj|C:\\Users\\Administrator\\source\\repos\\MY PROJECT\\MY SOFTWARE\\CLI-Lyrics-Sniffer\\cli-lyrics-sniffer\\core\\services\\lrcparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{857032B3-D567-46D4-B3B8-E8682AFF4E8F}|CLI-Lyrics-Sniffer\\CLI-Lyrics-Sniffer.csproj|solutionrelative:cli-lyrics-sniffer\\core\\services\\lrcparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{857032B3-D567-46D4-B3B8-E8682AFF4E8F}|CLI-Lyrics-Sniffer\\CLI-Lyrics-Sniffer.csproj|C:\\Users\\Administrator\\source\\repos\\MY PROJECT\\MY SOFTWARE\\CLI-Lyrics-Sniffer\\cli-lyrics-sniffer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{857032B3-D567-46D4-B3B8-E8682AFF4E8F}|CLI-Lyrics-Sniffer\\CLI-Lyrics-Sniffer.csproj|solutionrelative:cli-lyrics-sniffer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\MY PROJECT\\MY SOFTWARE\\CLI-Lyrics-Sniffer\\CLI-Lyrics-Sniffer\\.gitignore",
+              "RelativeDocumentMoniker": "CLI-Lyrics-Sniffer\\.gitignore",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\MY PROJECT\\MY SOFTWARE\\CLI-Lyrics-Sniffer\\CLI-Lyrics-Sniffer\\.gitignore",
+              "RelativeToolTip": "CLI-Lyrics-Sniffer\\.gitignore",
+              "ViewState": "AQIAADQAAAAAAAAAAAAAAEMAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-10-30T03:54:18.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PathHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\MY PROJECT\\MY SOFTWARE\\CLI-Lyrics-Sniffer\\CLI-Lyrics-Sniffer\\Core\\Utils\\PathHelper.cs",
+              "RelativeDocumentMoniker": "CLI-Lyrics-Sniffer\\Core\\Utils\\PathHelper.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\MY PROJECT\\MY SOFTWARE\\CLI-Lyrics-Sniffer\\CLI-Lyrics-Sniffer\\Core\\Utils\\PathHelper.cs",
+              "RelativeToolTip": "CLI-Lyrics-Sniffer\\Core\\Utils\\PathHelper.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA5wBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T03:31:43.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\MY PROJECT\\MY SOFTWARE\\CLI-Lyrics-Sniffer\\CLI-Lyrics-Sniffer\\Core\\Utils\\AppConfig.cs",
+              "RelativeDocumentMoniker": "CLI-Lyrics-Sniffer\\Core\\Utils\\AppConfig.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\MY PROJECT\\MY SOFTWARE\\CLI-Lyrics-Sniffer\\CLI-Lyrics-Sniffer\\Core\\Utils\\AppConfig.cs",
+              "RelativeToolTip": "CLI-Lyrics-Sniffer\\Core\\Utils\\AppConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T02:58:36.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Theme.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\MY PROJECT\\MY SOFTWARE\\CLI-Lyrics-Sniffer\\CLI-Lyrics-Sniffer\\Core\\Utils\\Theme.cs",
+              "RelativeDocumentMoniker": "CLI-Lyrics-Sniffer\\Core\\Utils\\Theme.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\MY PROJECT\\MY SOFTWARE\\CLI-Lyrics-Sniffer\\CLI-Lyrics-Sniffer\\Core\\Utils\\Theme.cs",
+              "RelativeToolTip": "CLI-Lyrics-Sniffer\\Core\\Utils\\Theme.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T02:58:09.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KaraokeRender.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\MY PROJECT\\MY SOFTWARE\\CLI-Lyrics-Sniffer\\CLI-Lyrics-Sniffer\\Core\\Render\\KaraokeRender.cs",
+              "RelativeDocumentMoniker": "CLI-Lyrics-Sniffer\\Core\\Render\\KaraokeRender.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\MY PROJECT\\MY SOFTWARE\\CLI-Lyrics-Sniffer\\CLI-Lyrics-Sniffer\\Core\\Render\\KaraokeRender.cs",
+              "RelativeToolTip": "CLI-Lyrics-Sniffer\\Core\\Render\\KaraokeRender.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T02:57:24.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SpotifyClient.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\MY PROJECT\\MY SOFTWARE\\CLI-Lyrics-Sniffer\\CLI-Lyrics-Sniffer\\Core\\Services\\SpotifyClient.cs",
+              "RelativeDocumentMoniker": "CLI-Lyrics-Sniffer\\Core\\Services\\SpotifyClient.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\MY PROJECT\\MY SOFTWARE\\CLI-Lyrics-Sniffer\\CLI-Lyrics-Sniffer\\Core\\Services\\SpotifyClient.cs",
+              "RelativeToolTip": "CLI-Lyrics-Sniffer\\Core\\Services\\SpotifyClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T02:56:31.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PlayingInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\MY PROJECT\\MY SOFTWARE\\CLI-Lyrics-Sniffer\\CLI-Lyrics-Sniffer\\Core\\Models\\PlayingInfo.cs",
+              "RelativeDocumentMoniker": "CLI-Lyrics-Sniffer\\Core\\Models\\PlayingInfo.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\MY PROJECT\\MY SOFTWARE\\CLI-Lyrics-Sniffer\\CLI-Lyrics-Sniffer\\Core\\Models\\PlayingInfo.cs",
+              "RelativeToolTip": "CLI-Lyrics-Sniffer\\Core\\Models\\PlayingInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T02:54:42.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LrcLine.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\MY PROJECT\\MY SOFTWARE\\CLI-Lyrics-Sniffer\\CLI-Lyrics-Sniffer\\Core\\Models\\LrcLine.cs",
+              "RelativeDocumentMoniker": "CLI-Lyrics-Sniffer\\Core\\Models\\LrcLine.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\MY PROJECT\\MY SOFTWARE\\CLI-Lyrics-Sniffer\\CLI-Lyrics-Sniffer\\Core\\Models\\LrcLine.cs",
+              "RelativeToolTip": "CLI-Lyrics-Sniffer\\Core\\Models\\LrcLine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T02:55:17.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LyricsData.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\MY PROJECT\\MY SOFTWARE\\CLI-Lyrics-Sniffer\\CLI-Lyrics-Sniffer\\Core\\Models\\LyricsData.cs",
+              "RelativeDocumentMoniker": "CLI-Lyrics-Sniffer\\Core\\Models\\LyricsData.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\MY PROJECT\\MY SOFTWARE\\CLI-Lyrics-Sniffer\\CLI-Lyrics-Sniffer\\Core\\Models\\LyricsData.cs",
+              "RelativeToolTip": "CLI-Lyrics-Sniffer\\Core\\Models\\LyricsData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T02:55:49.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CLI-Lyrics-Sniffer.csproj",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\MY PROJECT\\MY SOFTWARE\\CLI-Lyrics-Sniffer\\CLI-Lyrics-Sniffer\\CLI-Lyrics-Sniffer.csproj",
+              "RelativeDocumentMoniker": "CLI-Lyrics-Sniffer\\CLI-Lyrics-Sniffer.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\MY PROJECT\\MY SOFTWARE\\CLI-Lyrics-Sniffer\\CLI-Lyrics-Sniffer\\CLI-Lyrics-Sniffer.csproj",
+              "RelativeToolTip": "CLI-Lyrics-Sniffer\\CLI-Lyrics-Sniffer.csproj",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-29T16:20:28.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConsoleHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\MY PROJECT\\MY SOFTWARE\\CLI-Lyrics-Sniffer\\CLI-Lyrics-Sniffer\\Core\\Utils\\ConsoleHelper.cs",
+              "RelativeDocumentMoniker": "CLI-Lyrics-Sniffer\\Core\\Utils\\ConsoleHelper.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\MY PROJECT\\MY SOFTWARE\\CLI-Lyrics-Sniffer\\CLI-Lyrics-Sniffer\\Core\\Utils\\ConsoleHelper.cs",
+              "RelativeToolTip": "CLI-Lyrics-Sniffer\\Core\\Utils\\ConsoleHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T02:58:21.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\MY PROJECT\\MY SOFTWARE\\CLI-Lyrics-Sniffer\\CLI-Lyrics-Sniffer\\Program.cs",
+              "RelativeDocumentMoniker": "CLI-Lyrics-Sniffer\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\MY PROJECT\\MY SOFTWARE\\CLI-Lyrics-Sniffer\\CLI-Lyrics-Sniffer\\Program.cs",
+              "RelativeToolTip": "CLI-Lyrics-Sniffer\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwBEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T14:23:11.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LyricsService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\MY PROJECT\\MY SOFTWARE\\CLI-Lyrics-Sniffer\\CLI-Lyrics-Sniffer\\Core\\Services\\LyricsService.cs",
+              "RelativeDocumentMoniker": "CLI-Lyrics-Sniffer\\Core\\Services\\LyricsService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\MY PROJECT\\MY SOFTWARE\\CLI-Lyrics-Sniffer\\CLI-Lyrics-Sniffer\\Core\\Services\\LyricsService.cs",
+              "RelativeToolTip": "CLI-Lyrics-Sniffer\\Core\\Services\\LyricsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T02:56:48.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SpotifyAuth.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\MY PROJECT\\MY SOFTWARE\\CLI-Lyrics-Sniffer\\CLI-Lyrics-Sniffer\\Core\\Services\\SpotifyAuth.cs",
+              "RelativeDocumentMoniker": "CLI-Lyrics-Sniffer\\Core\\Services\\SpotifyAuth.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\MY PROJECT\\MY SOFTWARE\\CLI-Lyrics-Sniffer\\CLI-Lyrics-Sniffer\\Core\\Services\\SpotifyAuth.cs",
+              "RelativeToolTip": "CLI-Lyrics-Sniffer\\Core\\Services\\SpotifyAuth.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T02:56:19.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LrcParser.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\MY PROJECT\\MY SOFTWARE\\CLI-Lyrics-Sniffer\\CLI-Lyrics-Sniffer\\Core\\Services\\LrcParser.cs",
+              "RelativeDocumentMoniker": "CLI-Lyrics-Sniffer\\Core\\Services\\LrcParser.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\MY PROJECT\\MY SOFTWARE\\CLI-Lyrics-Sniffer\\CLI-Lyrics-Sniffer\\Core\\Services\\LrcParser.cs",
+              "RelativeToolTip": "CLI-Lyrics-Sniffer\\Core\\Services\\LrcParser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T02:57:02.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\MY PROJECT\\MY SOFTWARE\\CLI-Lyrics-Sniffer\\CLI-Lyrics-Sniffer\\appsettings.json",
+              "RelativeDocumentMoniker": "CLI-Lyrics-Sniffer\\appsettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\MY PROJECT\\MY SOFTWARE\\CLI-Lyrics-Sniffer\\CLI-Lyrics-Sniffer\\appsettings.json",
+              "RelativeToolTip": "CLI-Lyrics-Sniffer\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-28T14:24:36.939Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

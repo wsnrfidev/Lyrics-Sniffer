@@ -2,7 +2,7 @@
 using CliLyricsSniffer.Core.Render;
 using CliLyricsSniffer.Core.Services;
 using CliLyricsSniffer.Core.Utils;
-using CliLyricsSniffer.Utils;
+using CliLyricsSniffer.Core.Utils;
 using System.Text;
 
 namespace CliLyricsSniffer

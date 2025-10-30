@@ -1,17 +1,67 @@
-﻿bin/
+﻿# =====================================
+# 👇 CLI-Lyrics-Sniffer .gitignore
+# =====================================
+
+# Build results
+bin/
 obj/
+out/
+*.exe
+*.dll
+*.log
+
+# Visual Studio
 .vs/
 *.user
 *.suo
-
-
 *.userosscache
 *.sln.docstates
 
+# Visual Studio Code
+.vscode/
+.history/
 
-appsettings.Development.json
-appsettings.Local.json
+# Rider / JetBrains
+.idea/
 
-
+# OS-specific junk
 .DS_Store
 Thumbs.db
+ehthumbs.db
+
+# Environment / config
+appsettings.Development.json
+appsettings.Local.json
+appsettings.*.local.json
+
+# NuGet
+*.nupkg
+*.snupkg
+*.nuspec
+*.nuget.props
+*.nuget.targets
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.lock
+*.pid
+
+# Logs
+logs/
+*.log
+log.txt
+
+# Publish artifacts
+publish/
+dist/
+release/
+
+# Backup files
+*~
+*.old
+
+# =====================================
+# END
+# =====================================
