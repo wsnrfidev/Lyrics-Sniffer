@@ -234,4 +234,4 @@ Microsoft .NET
 
 Newtonsoft.Json
 ```
-<p align="center">⭐ Star the repo if you love it! Let's make coding with music better 🎶💻</p> ```
+<p align="center">⭐ Star the repo if you love it! Let's make coding with music better 🎶💻</p>
