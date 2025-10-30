@@ -45,7 +45,7 @@ All lyrics are rendered beautifully and **centered inside your terminal** — ju
 ---
 
 ## 📁 Folder Structure
-
+```
 CLI-Lyrics-Sniffer/
 │
 ├── Core/
@@ -71,6 +71,7 @@ CLI-Lyrics-Sniffer/
 ├── CLI-Lyrics-Sniffer.csproj
 ├── Program.cs
 └── README.md
+```
 
 
 ---
