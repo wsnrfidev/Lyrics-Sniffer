@@ -140,7 +140,7 @@ lyrics-sniffer
 🎉 It will auto-detect your project root and run immediately — no cd required!
 
 ### 🖥 Example Output
-
+```
 🎵 Perfect — Ed Sheeran
 ===========================================
 
@@ -151,7 +151,7 @@ lyrics-sniffer
                 • I found a love for me •
                   Darling just dive right in
                    Follow my lead
-
+```
 ### 💬 Common Issues
 ❌ Couldn't find a project to run
 
