@@ -88,7 +88,7 @@ CLI-Lyrics-Sniffer/
 
 ### 🪄 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/CLI-Lyrics-Sniffer.git
+git clone https://github.com/wsnrfidev/Lyrics-Sniffer
 cd CLI-Lyrics-Sniffer
 ```
 
