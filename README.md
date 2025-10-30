@@ -89,7 +89,7 @@ CLI-Lyrics-Sniffer/
 ### 🪄 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/wsnrfidev/Lyrics-Sniffer
-cd CLI-Lyrics-Sniffer
+cd Lyrics-Sniffer
 ```
 
 ### 🔐 2️⃣ Add Your Spotify Credentials
